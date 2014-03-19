@@ -1,0 +1,24 @@
+<fop version="1.0">
+	<renderers>
+		<renderer mime="application/pdf">
+		  <auto-detect/>
+			<fonts>
+			  <font embed-url="Calibri.ttf">
+          <font-triplet name="Calibri" style="normal" weight="normal" />
+        </font>
+        <font embed-url="Calibri Bold Italic.ttf">
+          <font-triplet name="Calibri" style="italic" weight="bold" />
+        </font>
+        <font embed-url="Calibri Bold.ttf">
+          <font-triplet name="Calibri" style="normal" weight="bold" />
+        </font>
+        <font embed-url="Calibri Italic.ttf">
+          <font-triplet name="Calibri" style="italic" weight="normal" />
+        </font>
+        <font embed-url="Calibri.ttf">
+          <font-triplet name="Calibri" style="normal" weight="normal" />
+        </font>
+			</fonts>
+		</renderer>
+	</renderers>
+</fop>
